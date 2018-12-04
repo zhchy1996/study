@@ -3,6 +3,6 @@ require('./css/main.css');
 const show = require('./js/show.js');
 
 // 执行 show 函数
-show('Webpackab');
+show('Webpackc');
 
 
